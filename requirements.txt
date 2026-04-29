@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-groq
+langgraph
+fastapi
+uvicorn
+pydantic-settings
+wikipedia
+duckduckgo-search
+numexpr
